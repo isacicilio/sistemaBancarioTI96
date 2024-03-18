@@ -1,2 +1,4 @@
 # sistemaBancarioTI96
-estudos python voltado para simular um sistema bancario
+Estudos de Python voltado para simular um sistema bancario
+
+Vamos trabalhar com Orientação a Objeto
